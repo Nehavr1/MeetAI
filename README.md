@@ -13,21 +13,22 @@ Install and import torch
 Answer to queries
 
 The app works on
-1. Collecting documents/ RAG information
-2. Custom Search tool
-3. Sematic Search to find the nearest number for similarity
-4. Data Chunking
-5. Data embedding
-6. Data Retrieval
-7. Indexing
-8. LLM EventAgent from Huggingface
-9. Function Calling
-10. Prompt enginnering
-11. MultiStep Agent
-12. Github
-13. Streamlit
+1. Collecting documents: Collects Data on event type, location, date, time
+2. Custom Search tool: Search to find the queries like ' where is music event located?'
+3. Sematic Search to find the nearest number for similarity: Internally provides a number close to the data
+4. Data Chunking: Chunks data based on Location/event/Date
+5. Data embedding: Embeddes as a file 
+6. Data Retrieval: Embedded file is retrieved for faster processing
+7. Indexing: For faster data retreval
+8. LLM EventAgent from Huggingface: LLM is used to provide answers like human
+9. RAG generation: Information is provided from internet
+10. Function Calling: For easier access to functions when the data is large
+11. Prompt enginnering
+12. MultiStep Agent: Agent helps in mutistaging process like finding events, finding location
+13. Github: Code uploaded
+14. Streamlit: Code publised (This step is seeing some error)
 
-14. ![image](https://github.com/user-attachments/assets/6ae311aa-2211-4ea1-996f-49e08145f74d)
+15. ![image](https://github.com/user-attachments/assets/6ae311aa-2211-4ea1-996f-49e08145f74d)
 
 
 
