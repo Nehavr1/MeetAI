@@ -1,5 +1,0 @@
-transformers>=4.36.2
-diffusers>=0.25.0
-ctransformers[Cuda]>=0.2.24
-gradio
-streamlit>=1.29.0
