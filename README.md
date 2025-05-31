@@ -26,7 +26,7 @@ The app works on
 11. Prompt enginnering
 12. MultiStep Agent: Agent helps in mutistaging process like finding events, finding location
 13. Github: Code uploaded
-14. Streamlit: Code publised (This step is seeing some error)
+14. Streamlit: Code publised 
 
 15. ![image](https://github.com/user-attachments/assets/6ae311aa-2211-4ea1-996f-49e08145f74d)
 
